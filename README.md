@@ -1,1 +1,1 @@
-"AtlasStay.ma est une plateforme marocaine de r‚servation d'h“tels et de chambres, permettant aux voyageurs de d‚couvrir et r‚server facilement des h‚bergements partout au Maroc." 
+"AtlasStay.ma est une plateforme marocaine de rÃ©servation dâ€™hÃ´tels et de chambres, permettant aux voyageurs de dÃ©couvrir et rÃ©server facilement des hÃ©bergements partout au Maroc." 
